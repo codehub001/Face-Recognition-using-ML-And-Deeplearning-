@@ -22,10 +22,9 @@ https://machinelearningprojects.net/face-recognition-based-attendance-system/
 MAIN SCREEN:
 ![Screenshot (9)](https://user-images.githubusercontent.com/37211676/58502148-97ec2a00-81a3-11e9-963e-674b9c3e05dc.png)
 
-TAKING ATTENDANCE:
-![Screenshot (10)](https://user-images.githubusercontent.com/37211676/58502149-97ec2a00-81a3-11e9-9658-8968da396c2e.png)
 
-for more follow https://www.linkedin.com/in/modassir-ali-a051b1229?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Ba%2FHQWHQtRKq8qJXbCX%2FBxw%3D%3D
+
+
 
 
 HELP OPTION IN MENUBAR:
@@ -33,3 +32,9 @@ HELP OPTION IN MENUBAR:
 
 CHANGE PASSWORD OPTION:
 ![Screenshot (13)](https://user-images.githubusercontent.com/37211676/58502146-97539380-81a3-11e9-8536-0c68160ecc55.png)
+
+
+
+
+
+for more follow https://www.linkedin.com/in/modassir-ali-a051b1229?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Ba%2FHQWHQtRKq8qJXbCX%2FBxw%3D%3D
