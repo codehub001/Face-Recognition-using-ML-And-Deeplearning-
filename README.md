@@ -25,8 +25,8 @@ MAIN SCREEN:
 TAKING ATTENDANCE:
 ![Screenshot (10)](https://user-images.githubusercontent.com/37211676/58502149-97ec2a00-81a3-11e9-9658-8968da396c2e.png)
 
-SHOWING ATTENDANCE TAKEN:
-![Screenshot (11)](https://user-images.githubusercontent.com/37211676/58502151-9884c080-81a3-11e9-9a90-fec29940ee5a.png)
+for more follow https://www.linkedin.com/in/modassir-ali-a051b1229?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Ba%2FHQWHQtRKq8qJXbCX%2FBxw%3D%3D
+
 
 HELP OPTION IN MENUBAR:
 ![Screenshot (12)](https://user-images.githubusercontent.com/37211676/58502152-991d5700-81a3-11e9-861a-9115526010c2.png)
