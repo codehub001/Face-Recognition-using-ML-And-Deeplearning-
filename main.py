@@ -32,7 +32,7 @@ def contact():
 
 ###################################################################################
 
-def check_haarcascadefile():
+def check_haarcascadefile(): 
     exists = os.path.isfile("haarcascade_frontalface_default.xml")
     if exists:
         pass
