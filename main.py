@@ -9,7 +9,7 @@ import numpy as np
 from PIL import Image
 import pandas as pd
 import datetime
-import time
+import time 
 
 ############################################# FUNCTIONS ################################################
 
