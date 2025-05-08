@@ -103,7 +103,7 @@ def change_pass():
     cancel.place(x=200, y=120)
     save1 = tk.Button(master, text="Save", command=save_pass, fg="black", bg="#3ece48", height = 1,width=25, activebackground="white", font=('times', 10, ' bold '))
     save1.place(x=10, y=120)
-    master.mainloop()
+    master.mainloop() 
 
 #####################################################################################
 
