@@ -12,7 +12,7 @@ import pandas as pd
 import datetime
 import time 
 ############################################# FUNCTIONS ################################################  
-
+ 
 def assure_path_exists(path):
     dir = os.path.dirname(path)
     if not os.path.exists(dir):
