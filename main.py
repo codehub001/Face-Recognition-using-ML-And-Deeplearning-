@@ -2,7 +2,7 @@
 ############################################## IMPORTING ############################################## ##  
 import tkinter as tk     
 from tkinter import ttk       
-from tkinter import messagebox as mess         
+from tkinter import messagebox as mess          
 import tkinter.simpledialog as tsd          
 import cv2,os            
 import csv      
