@@ -7,7 +7,7 @@ import tkinter.simpledialog as tsd
 import cv2,os             
 import csv         
 import numpy as np          
-from PIL import Image n  
+from PIL import Image n   
 import pandas as pd 
 import datetime 
 import time   
