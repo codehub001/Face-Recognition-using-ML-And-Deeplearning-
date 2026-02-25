@@ -5,6 +5,22 @@ A Python GUI-integrated attendance system using face recognition to automate the
 ## 📌 Overview
 This project leverages **OpenCV** and **Tkinter** to build an AI-powered attendance system. By utilizing **face recognition**, it marks attendance automatically and securely stores it in CSV files.
 
+## Model Pipeline
+
+The face recognition system follows this pipeline:
+
+1. Face detection using OpenCV Haar Cascade
+2. Face preprocessing (grayscale, resize, normalization)
+3. Feature extraction
+4. Model training for identity classification
+5. Evaluation using accuracy, precision, recall, and F1-score
+
+## Technologies
+- Python
+- OpenCV
+- NumPy
+- scikit-learn
+
 ## ✨ Features
 ✅ **User-Friendly GUI** - Interactive interface built with Tkinter for easy navigation.<br>
 ✅ **Face Recognition Technology** - Uses OpenCV's LBPHFaceRecognizer for precise detection.<br>
