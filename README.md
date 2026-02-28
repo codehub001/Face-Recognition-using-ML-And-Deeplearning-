@@ -119,5 +119,5 @@ python main.py
 
 ⭐ **If you found this project useful, don't forget to give it a star!** ⭐
 
-
+## we can connect and colbrate for the project
 
